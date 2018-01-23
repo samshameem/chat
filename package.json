@@ -1,0 +1,30 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "node.js realtime framework server",
+  "keywords": [
+    "framework",
+    "websocket",
+    "socket",
+    "io"
+  ],
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/samshameem/chat"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  },
+  "contributors": [
+    {
+      "name": "Shameem Ahmed ",
+      "email": "shameem.sam@gmail.com"
+    }
+  ]
+}
